@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning `["music composition", "lyrics writing", "Elm", "Lamdera", "☀shine"]`
 - 👯 I’m *not* looking for collaborations at the moment.
 - 💬 Ask me about `["functional programming", "niche music 😎", "open-source social media alternatives 🙏"]`
-- 📫 How to reach me: 
 - ⚡ Fun fact: not a fan of lol-catz 😋
 

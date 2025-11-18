@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - 📜 Learning: SvelteKit + Drizzle + Vercel
 - 👁 Always on the lookout for interesting IT projects (edtech, animals, psychology, art)
 - 🤝 Supporting wanna-be coders who need a tiny bit of free mentoring on [codingcoach.io](https://mentors.codingcoach.io/?name=Nick+Kubera)
-- 🎼 Music project: [therainwillcome@bandcamp](https://therainwillcome.bandcamp.com/)
-

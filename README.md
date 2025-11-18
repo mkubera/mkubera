@@ -6,13 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🌊 Job: Web dev Mentor / Elm developer / NextJS+NodeJS developer
+- 🌊 Job: Web dev Mentor & Career Coach
 - 📚 Experience:
-  - Full-stack Web Developer (JavaScript/TypeScript/Elm/Elixir/Python)
   - Web dev Mentor (courses/bootcamps/workshops/individual) & Career Coach
+  - Full-stack Web Developer (JavaScript/TypeScript/Elm/Elixir/Python)
+- 📜 Learning: SvelteKit + Drizzle + Vercel
 - 👁 Always on the lookout for interesting IT projects (edtech, animals, psychology, art)
 - 🤝 Supporting wanna-be coders who need a tiny bit of free mentoring on [codingcoach.io](https://mentors.codingcoach.io/?name=Nick+Kubera)
-- 🌱 I’m currently learning `["music composition/production", "UI design", "elm+lamdera", "organizing music events"]`
-- 💬 Ask me about `["functional programming", "niche music", "programming tips"]`
 - 🎼 Music project: [therainwillcome@bandcamp](https://therainwillcome.bandcamp.com/)
 
